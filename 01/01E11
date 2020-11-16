@@ -1,0 +1,7 @@
+a=b=2 		-> chained assigment
+truple ()
+list []
+dicts {}
+int(variable_name) --> type-cast
+list[start:end] or list[:-end]
+
